@@ -1,0 +1,12 @@
+node_modules/
+*.json.bak
+docs_raw.json
+docs_final.json
+docs_final.imgurls.txt
+image_map.json
+import_state.json
+image_missing.txt
+images/
+images_ext/
+*.log
+.env
